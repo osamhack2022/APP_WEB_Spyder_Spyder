@@ -11,13 +11,13 @@
 
 ## 기능 설명
  - APP
- -- 카메라 차단 기능
- -- 위치정보 설정 기능
- -- 사진의 위치정보 분석 기능 (EXIF Analysis)
+     - 카메라 차단 기능
+     - 위치정보 설정 기능
+     - 사진의 위치정보 분석 기능 (EXIF Analysis)
  - WEB
- -- 앱이 설치된 단말기 감시 기능
- -- 앱 강제 종료 감시 기능
- -- 위치정보에 위반되는 사진 모니터링 기능
+     - 앱이 설치된 단말기 감시 기능
+     - 앱 강제 종료 감시 기능
+     - 위치정보에 위반되는 사진 모니터링 기능
 
 ## 컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
 * ECMAScript 6 지원 브라우저 사용
@@ -27,7 +27,7 @@
 ## 기술 스택 (Technique Used) 
 ### WEB(Back-end)
  - Python
- -- Framework: Django
+     - Framework: Django
  - AWS EC2
  
 ### WEB(Front-end)
@@ -35,7 +35,7 @@
 
 ### APP
  - Java
- -- IDE: Android Studio
+     - IDE: Android Studio
 
 ## 설치 안내 (Installation Process)
 ```bash
