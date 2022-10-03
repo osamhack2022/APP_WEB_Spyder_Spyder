@@ -49,7 +49,7 @@ $ yarn start or npm run start
 |  팀원  |         소속          |     GitHub     |         Email         |
 | :----: | :-------------------: | :------------: | :-------------------: |
 | 조용인 |  육군 17사단   | yongincho |    choyongin21@gmail.com    |
-| 김진 | 육군 수도군단 |  .   | . |
+| 김진 | 육군 수도군단 |  kimjin1425@naver.com   | kimjin1425@naver.com |
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
